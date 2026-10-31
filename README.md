@@ -18,12 +18,11 @@ You can download the website file and run it locally on your computer.
 
 Steps to view the website:
 
-1. Download the HTML file using the link below.
+1. Download the HTML file.
 2. Open the downloaded file.
 3. Select Google Chrome or any web browser.
 4. Explore the NetFix website.
 
-"Download netfix.html" (./netfix.html)
 ---
 Team Members
 - Ashritha
