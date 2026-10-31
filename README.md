@@ -1,6 +1,6 @@
 # AIORI-3-HACKATHON-PROJECTS
-This repository will contain the code and resources for the AIORI-3 hackathon that will be developed during the AIORI-3     
-NetFix 
+This repository will contain the code and resources for the AIORI-3 hackathon that will be developed during the AIORI-3   
+NetFix  
 ---
 AIORI-3 Hackathon Project  
 About the Project: Home and last-mile internet connectivity diagnosis  
