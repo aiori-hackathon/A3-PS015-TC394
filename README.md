@@ -6,6 +6,7 @@ NetFix
 AIORI-3 Hackathon Project
 
 Problem Statement: Explainable Home and last-mile internet connectivity diagnosis  
+
 About the Project: NetFix is a solution designed to help users identify, understand and diagnose home internet connectivity issues through an explainable approach. 
 ---
 Project Resources:
