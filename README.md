@@ -11,7 +11,6 @@ About the Project: NetFix is a solution designed to help users identify, underst
 
 ---
 Project Resources:
-
 [Proposed Structure presentation]:(https://1drv.ms/b/c/875aaa312ccac7e2/IQBD3PI0TOl3T6f5GgXhPgYQATyShKp3HiZ60uzH0Z32LJQ?e=ZYUO4F)    
 [Team Introduction Video]: (https://youtu.be/XQjPzPXb0XI?si=39WR5rPnJr0MdwWv)    
 [Website Demonstration Video]: (https://youtu.be/YyfqHwbMGJg?si=kdeaQjpqiqtZKYKK)    
