@@ -7,4 +7,3 @@ This repository will contain the code and resources for the AIORI-3 hackathon th
 [Website Demonstration Video]: (https://youtu.be/YyfqHwbMGJg?si=kdeaQjpqiqtZKYKK)
 #
 [Project Overview presentation]: (https://drive.google.com/file/d/1P53Nbc2bdThE7ZaaHdEaZtcrgT0SJj9J/view?usp=drivesdk)
-#
